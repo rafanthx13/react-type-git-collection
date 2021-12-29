@@ -1,12 +1,12 @@
 # Curso Udemy - Aluizo Develop - React and TypeScript - GitCollection
 
-Concluído em 28/12/202. Código+Deploy+Doc+Ensinamentos
+Concluído em 28/12/202. Código + Deploy + Doc + Ensinamentos
 
 Repo original: https://github.com/aluiziodeveloper/gitcollection
 
 ## O que é o projeto
 
-É um projeto simples usando React e TypeScript. É uma interface para consultar repositórios do git e ver as suas `issues`.  
+É um projeto simples usando React e TypeScript. É uma interface para consultar repositórios do git e ver as suas `issues`.
 
 **Ações**
 
