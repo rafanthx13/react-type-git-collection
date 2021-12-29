@@ -1,9 +1,16 @@
+// Arquivo inicial do app, onde coloca-se o router e estilo global
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom'; // router
+import { GlobalStyle } from './styles/global'; // global-style
+import { Routes } from './routes';
 
 const App: React.FC = () => {
   return (
     <>
-      <h1>Olá Dev!</h1>
+      <BrowserRouter>
+        <Routes />
+      </BrowserRouter>
+      <GlobalStyle />
     </>
   );
 };
